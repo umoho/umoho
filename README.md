@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @umoho
 - 👀 I’m interested in Hardware and Software of Computer Science
-- 🌱 I’m currently learning Linux, C and Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Computer
+
+**Do what I'm interested in!**
 
 <!---
 umoho/umoho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
